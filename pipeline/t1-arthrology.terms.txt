@@ -1,0 +1,331 @@
+# Том 1. Учение о соединениях костей — Артрология (Синельников, с. 133–182; PDF-страницы 127–178)
+#
+# Формат:
+#   ## <id главы> | <название главы как в книге> | <PDF от>-<PDF до>
+#   <русский термин> | <латинский термин> | m: 3D-объекты | p: точка-метка | b: кости-контекст | ex
+# m  — английские имена структур Z-Anatomy без суффиксов .r/.l (подсвечиваются целиком)
+# p  — имя метки Z-Anatomy: точка на кости (если своей 3D-структуры нет)
+# b  — кости, которые делаются непрозрачными, когда своей структуры нет
+# ex — объект показан как пример (общее понятие)
+# Термин, встречающийся в нескольких главах, можно повторить строкой «ru | la» — привязки берутся из первого определения.
+
+## fibrous | Фиброзные и хрящевые соединения | 127-129
+Фиброзные соединения | articulationes fibrosae | m: Interosseous membrane of forearm; Interosseous membrane of leg | ex
+Синдесмоз | syndesmosis | m: Interosseous membrane of forearm; Interosseous membrane of leg | ex
+Межкостная перепонка предплечья | membrana interossea antebrachii | m: Interosseous membrane of forearm
+Крыловидно-остистая связка | lig. pterygospinale | m: Pterygospinous ligament
+Шилоподъязычная связка | lig. stylohyoideum | m: Stylohyoid ligament
+Шов | sutura | b: Parietal bone; Frontal bone; Occipital bone | ex
+Зубчатый шов | sutura serrata | b: Parietal bone | ex
+Чешуйчатый шов | sutura squamosa | b: Temporal bone; Parietal bone | ex
+Плоский шов | sutura plana | b: Nasal bone; Maxilla | ex
+Схиндилез (расщепление) | schindylesis | b: Vomer; Sphenoid bone | ex
+Зубоальвеолярное соединение | gomphosis (articulatio dentoalveolaris) | b: Upper first molar tooth; Maxilla | ex
+Хрящевые соединения | articulationes cartilagineae | m: Intervertebral disc L3-L4; Pubic symphysis | ex
+Синхондрозы | synchondroses | b: Costal cartilage of first rib; Manubrium of sternum | ex
+Клиновидно-затылочный синхондроз | synchondrosis sphenooccipitalis | b: Sphenoid bone; Occipital bone
+Синхондроз рукоятки грудины | synchondrosis manubriosternalis | b: Manubrium of sternum; Body of sternum
+Синхондроз мечевидного отростка | synchondrosis xiphosternalis | b: Xiphoid process; Body of sternum
+Симфизы | symphyses | m: Pubic symphysis; Intervertebral disc L3-L4 | ex
+Межпозвоночный симфиз | symphysis intervertebralis | m: Intervertebral disc
+Симфиз рукоятки грудины | symphysis manubriosternalis | b: Manubrium of sternum; Body of sternum
+Лобковый симфиз | symphysis pubica | m: Pubic symphysis
+
+## synovial | Синовиальные соединения (суставы) | 129-130
+Синовиальные соединения (суставы) | articulationes synoviales | m: Articular capsule of knee joint | ex
+Простой сустав | articulatio simplex | m: Articular capsule of glenohumeral joint | ex
+Сложный сустав | articulatio composita | m: Articular capsule of elbow joint | ex
+Суставные хрящи | cartilago articularis | b: Femur; Tibia | ex
+Суставная капсула | capsula articularis | m: Articular capsule of hip joint | ex
+Суставная полость | cavitas articularis | m: Articular capsule of hip joint | ex
+Синовиальная мембрана | membrana synovialis | m: Articular capsule of knee joint | ex
+Суставные диски | disci articulares | m: Articular disc of temporomandibular joint; Articular disc of sternoclavicular joint | ex
+Суставные губы | labra articularia | m: Glenoid labrum; Acetabular labrum | ex
+Синовиальные складки | plicae synoviales | m: Infrapatellar fat pad | ex
+Синовиальные ворсинки | villi synoviales
+Внекапсульные связки | ligg. extracapsularia | m: Fibular collateral ligament | ex
+Капсульные связки | ligg. capsularia | m: Descending part of iliofemoral ligament; Transverse part of iliofemoral ligament | ex
+Внутрикапсульные связки | ligg. intracapsularia | m: Anterior cruciate ligament; Posterior cruciate ligament | ex
+Цилиндрический сустав | articulatio trochoidea | m: Annular ligament of radius | b: Radius; Ulna | ex
+Блоковидный сустав | ginglymus | b: Humerus; Ulna | p: Trochlea of humerus | ex
+Эллипсовидный сустав | articulatio ellipsoidea | m: Articular capsule of radiocarpal joint | ex
+Седловидный сустав | articulatio sellaris | b: Trapezium bone; First metacarpal bone | ex
+Шаровидный сустав | articulatio spheroidea | m: Articular capsule of glenohumeral joint | ex
+Чашеобразный сустав | articulatio cotylica | m: Articular capsule of hip joint | ex
+Плоский сустав | articulatio plana | b: Vertebra L3; Vertebra L4 | p: Superior articular process of vertebra | ex
+Мыщелковые суставы | articulationes bicondylares | m: Articular capsule of knee joint | ex
+
+## spine | Соединения позвонков | 130-138
+Связки и суставы позвоночного столба | ligg. et articulationes columnae vertebralis | m: Anterior longitudinal ligament; Posterior longitudinal ligament; Ligamenta flava; Interspinous ligaments; Supraspinous ligament; Intertransverse ligaments
+Межпозвоночный диск | discus intervertebralis | m: Intervertebral disc
+Фиброзное кольцо | anulus fibrosus | m: Intervertebral disc
+Студенистое ядро | nucleus pulposus | m: Nucleus pulposus
+Межпозвоночный симфиз | symphysis intervertebralis
+Передняя продольная связка | lig. longitudinale anterius | m: Anterior longitudinal ligament
+Задняя продольная связка | lig. longitudinale posterius | m: Posterior longitudinal ligament
+Желтые связки | ligg. flava | m: Ligamenta flava
+Межостистые связки | ligg. interspinalia | m: Interspinous ligaments
+Надостистая связка | lig. supraspinale | m: Supraspinous ligament
+Выйная связка | lig. nuchae | m: Nuchal ligament
+Межпоперечные связки | ligg. intertransversaria | m: Intertransverse ligaments
+Дугоотростчатые суставы | articulationes zygapophysiales | p: Superior articular process of vertebra | b: Vertebra L3; Vertebra L4
+Пояснично-крестцовый сустав | articulatio lumbosacralis | m: Intervertebral disc L5-S1 | b: Vertebra L5; Sacrum
+Подвздошно-поясничная связка | lig. iliolumbale | m: Iliolumbar ligament
+Крестцово-копчиковый сустав | articulatio sacrococcygea | m: Sacrococcygeal symphysis | b: Sacrum; Coccyx
+Передняя крестцово-копчиковая связка | lig. sacrococcygeum anterius | b: Sacrum; Coccyx
+Поверхностная задняя крестцово-копчиковая связка | lig. sacrococcygeum posterius superficiale | b: Sacrum; Coccyx
+Глубокая задняя крестцово-копчиковая связка | lig. sacrococcygeum posterius profundum | b: Sacrum; Coccyx
+Латеральная крестцово-копчиковая связка | lig. sacrococcygeum laterale | b: Sacrum; Coccyx
+
+## craniovertebral | Соединения черепа с атлантом и атланта с осевым позвонком | 138-141
+Атлантозатылочный сустав | articulatio atlantooccipitalis | p: Occipital condyle | b: Occipital bone; Atlas (C1)
+Затылочные мыщелки | condyli occipitales | p: Occipital condyle
+Передняя атлантозатылочная мембрана | membrana atlantooccipitalis anterior | b: Occipital bone; Atlas (C1)
+Передняя атлантозатылочная связка | lig. atlantooccipitale anterius | b: Occipital bone; Atlas (C1)
+Задняя атлантозатылочная мембрана | membrana atlantooccipitalis posterior | b: Occipital bone; Atlas (C1)
+Латеральные атлантозатылочные связки | ligg. atlantooccipitalia lateralia | b: Occipital bone; Atlas (C1)
+Срединный атлантоосевой сустав | articulatio atlantoaxialis mediana | p: Dens axis | b: Atlas (C1); Axis (C2)
+Латеральный атлантоосевой сустав | articulatio atlantoaxialis lateralis | p: Inferior articular surface of atlas | b: Atlas (C1); Axis (C2)
+Покровная мембрана | membrana tectoria | b: Occipital bone; Axis (C2)
+Крестообразная связка атланта | lig. cruciforme atlantis | p: Posterior articular facet of dens axis | b: Atlas (C1); Axis (C2)
+Поперечная связка атланта | lig. transversum atlantis | p: Posterior articular facet of dens axis | b: Atlas (C1)
+Продольные пучки | fasciculi longitudinales | b: Atlas (C1); Axis (C2); Occipital bone
+Связка верхушки зуба | lig. apicis dentis | p: Apex of dens axis
+Крыловидные связки | ligg. alaria | p: Dens axis | b: Axis (C2); Occipital bone
+
+## ribs | Соединения ребер с позвоночным столбом и грудиной | 141-143
+Реберно-позвоночные суставы | articulationes costovertebrales | b: Sixth rib; Vertebra T6
+Сустав головки ребра | articulatio capitis costae | p: Articular facets of head of rib | b: Sixth rib; Vertebra T5; Vertebra T6
+Лучистая связка головки ребра | lig. capitis costae radiatum | m: Radiate ligament of head of rib
+Внутрисуставная связка головки ребра | lig. capitis costae intraarticulare | m: Intra-articular ligament of head of rib
+Реберно-поперечный сустав | articulatio costotransversaria | p: Articular facet of tubercle of rib | b: Sixth rib; Vertebra T6
+Суставная поверхность бугорка ребра | facies articularis tuberculi costae | p: Articular facet of tubercle of rib
+Верхняя реберно-поперечная связка | lig. costotransversarium superius | b: Sixth rib; Seventh rib
+Латеральная реберно-поперечная связка | lig. costotransversarium laterale | b: Sixth rib; Vertebra T6
+Реберно-поперечная связка | lig. costotransversarium | m: Costotransverse ligament
+Реберно-поперечное отверстие | foramen costotransversarium | m: Costotransverse ligament | b: Sixth rib
+Пояснично-реберная связка | lig. lumbocostale | b: Twelfth rib; Vertebra L1
+Грудино-реберные суставы | articulationes sternocostales | b: Body of sternum; Costal cartilage of second rib; Costal cartilage of third rib
+Лучистые грудино-реберные связки | ligg. sternocostalia radiata | b: Body of sternum; Costal cartilage of fourth rib
+Внутрисуставная грудино-реберная связка | lig. sternocostale intraarticulare | b: Body of sternum; Costal cartilage of second rib
+Реберно-мечевидные связки | ligg. costoxiphoidea | b: Xiphoid process; Costal cartilage of seventh rib
+Межхрящевые суставы | articulationes interchondrales | b: Costal cartilage of sixth rib; Costal cartilage of seventh rib; Costal cartilage of eighth rib
+Реберно-хрящевые суставы | articulationes costochondrales | b: Fifth rib; Costal cartilage of fifth rib
+Наружная межреберная мембрана | membrana intercostalis externa | m: External intercostal membrane
+Внутренняя межреберная мембрана | membrana intercostalis interna | m: Internal intercostal membrane
+
+## skull | Соединения костей черепа | 143-145
+Височно-нижнечелюстной сустав | articulatio temporomandibularis | m: Articular capsule of temporomandibular joint | b: Mandible; Temporal bone
+Головка нижней челюсти | caput mandibulae | b: Mandible
+Нижнечелюстная ямка | fossa mandibularis | b: Temporal bone
+Суставной бугорок | tuberculum articulare | b: Temporal bone
+Суставной диск височно-нижнечелюстного сустава | discus articularis | m: Articular disc of temporomandibular joint
+Верхняя синовиальная мембрана | membrana synovialis superior | m: Articular disc of temporomandibular joint | b: Temporal bone | ex
+Нижняя синовиальная мембрана | membrana synovialis inferior | m: Articular disc of temporomandibular joint | b: Mandible | ex
+Латеральная связка | lig. laterale | m: Lateral temporomandibular ligament
+Медиальная связка височно-нижнечелюстного сустава | lig. mediale | b: Mandible; Temporal bone
+Клиновидно-нижнечелюстная связка | lig. sphenomandibulare | m: Sphenomandibular ligament
+Шилонижнечелюстная связка | lig. stylomandibulare | m: Stylomandibular ligament
+Роднички | fonticuli | b: Parietal bone; Frontal bone; Occipital bone
+
+## shoulder-girdle | Суставы пояса верхней конечности | 145-146
+Суставы верхней конечности | articulationes membri superioris | m: Articular capsule of sternoclavicular joint; Articular capsule of acromioclavicular joint; Articular capsule of glenohumeral joint; Articular capsule of elbow joint; Articular capsule of radiocarpal joint
+Грудино-ключичный сустав | articulatio sternoclavicularis | m: Articular capsule of sternoclavicular joint | b: Clavicle; Manubrium of sternum
+Суставной диск грудино-ключичного сустава | discus articularis | m: Articular disc of sternoclavicular joint
+Передняя и задняя грудино-ключичные связки | ligg. sternoclavicularia anterius et posterius | m: Anterior sternoclavicular ligament; Posterior sternoclavicular ligament
+Реберно-ключичная связка | lig. costoclaviculare | m: Costoclavicular ligament
+Межключичная связка | lig. interclaviculare | m: Interclavicular ligament
+Акромиально-ключичный сустав | articulatio acromioclavicularis | m: Articular capsule of acromioclavicular joint | b: Clavicle; Scapula
+Акромиально-ключичная связка | lig. acromioclaviculare | m: Acromioclavicular ligament
+Клювовидно-ключичная связка | lig. coracoclaviculare | m: Conoid ligament; Trapezoid ligament
+Трапециевидная связка | lig. trapezoideum | m: Trapezoid ligament
+Коническая связка | lig. conoideum | m: Conoid ligament
+Клювовидно-акромиальная связка | lig. coracoacromiale | m: Coraco-acromial ligament
+Верхняя поперечная связка лопатки | lig. transversum scapulae superius | m: Superior transverse scapular ligament
+Нижняя поперечная связка лопатки | lig. transversum scapulae inferius | m: Inferior transverse scapular ligament
+
+## shoulder | Плечевой сустав | 146-148
+Плечевой сустав | articulatio humeri | m: Articular capsule of glenohumeral joint | b: Humerus; Scapula
+Головка плечевой кости | caput humeri | p: Head of humerus
+Суставная впадина лопатки | cavitas glenoidalis scapulae | p: Glenoid fossa
+Суставная губа | labrum glenoidale | m: Glenoid labrum
+Клювовидно-плечевая связка | lig. coracohumerale | m: Coracohumeral ligament
+Суставно-плечевые связки | ligg. glenohumeralia | m: Superior glenohumeral ligament; Middle glenohumeral ligament; Inferior glenohumeral ligament
+Межбугорковое синовиальное влагалище | vagina synovialis intertubercularis | m: Transverse humeral ligament | b: Humerus
+Подсухожильная сумка подлопаточной мышцы | bursa subtendinea m. subscapularis | b: Scapula; Humerus
+Клювовидно-акромиальная связка | lig. coracoacromiale
+
+## elbow | Локтевой сустав | 148-151
+Локтевой сустав | articulatio cubiti | m: Articular capsule of elbow joint | b: Humerus; Ulna; Radius
+Плечелоктевой сустав | articulatio humeroulnaris | p: Trochlea of humerus | b: Humerus; Ulna
+Плечелучевой сустав | articulatio humeroradialis | p: Capitulum of humerus | b: Humerus; Radius
+Проксимальный лучелоктевой сустав | articulatio radioulnaris proximalis | p: Articular circumference of head of radius | b: Radius; Ulna
+Локтевая коллатеральная связка | lig. collaterale ulnare | m: Ulnar collateral ligament
+Лучевая коллатеральная связка | lig. collaterale radiale | m: Radial collateral ligament
+Кольцевая связка лучевой кости | lig. anulare radii | m: Annular ligament of radius
+Квадратная связка | lig. quadratum | m: Quadrate ligament
+
+## forearm | Соединения костей предплечья | 151-152
+Лучелоктевой синдесмоз | syndesmosis radioulnaris | m: Interosseous membrane of forearm; Oblique cord
+Межкостная перепонка предплечья | membrana interossea antebrachii
+Косая хорда | chorda obliqua | m: Oblique cord
+Дистальный лучелоктевой сустав | articulatio radioulnaris distalis | m: Articular disc of distal radio-ulnar joint; Dorsal radio-ulnar ligament; Palmar radio-ulnar ligament | b: Radius; Ulna
+Мешкообразное углубление | recessus sacciformis | m: Articular disc of distal radio-ulnar joint | b: Radius; Ulna
+
+## hand | Лучезапястный сустав и суставы кисти | 152-156
+Лучезапястный сустав | articulatio radiocarpea | m: Articular capsule of radiocarpal joint | b: Radius; Scaphoid bone; Lunate bone; Triquetrum bone
+Лучевая коллатеральная связка запястья | lig. collaterale carpi radiale | m: Radial collateral ligament of wrist joint
+Локтевая коллатеральная связка запястья | lig. collaterale carpi ulnare | m: Ulnar collateral ligament of wrist joint
+Ладонная лучезапястная связка | lig. radiocarpeum palmare | m: Radioscaphocapitate ligament; Radiocapitate ligament
+Тыльная лучезапястная связка | lig. radiocarpeum dorsale | m: Dorsal radiocarpal ligament
+Суставы кисти | articulationes manus | b: Scaphoid bone; Lunate bone; Capitate bone; Third metacarpal bone; Proximal phalanx of third finger of hand
+Суставы запястья | articulationes carpi | b: Scaphoid bone; Lunate bone; Triquetrum bone; Pisiform bone; Trapezium bone; Trapezoid bone; Capitate bone; Hamate bone
+Среднезапястный сустав | articulatio mediocarpea | b: Scaphoid bone; Lunate bone; Triquetrum bone; Capitate bone; Hamate bone
+Межзапястные суставы | articulationes intercarpeae | b: Scaphoid bone; Lunate bone; Triquetrum bone; Trapezium bone; Trapezoid bone; Capitate bone; Hamate bone
+Тыльные межзапястные связки | ligg. intercarpalia dorsalia | m: Dorsal intercarpal ligaments; Dorsal scaphotriquetral ligament
+Ладонные межзапястные связки | ligg. intercarpalia palmaria | m: Palmar capitohamate ligament; Palmar lunotriquetral ligament; Palmar scaphotriquetral ligament; Palmar trapezoideocapitate ligament; Scaphocapitate ligament; Triquetrocapitate ligament; Triquetrohamate ligament
+Лучистая связка запястья | lig. carpi radiatum | m: Radiate carpal ligament
+Межкостные межзапястные связки | ligg. intercarpea interossea | m: Capitohamate interosseous ligament; Lunotriquetral interosseous ligament; Scapholunate interosseous ligament; Trapeziotrapezoidal interosseous ligament; Trapezoideocapitate interosseous ligament
+Сустав гороховидной кости | articulatio ossis pisiformis | m: Pisotriquetral ligament | b: Pisiform bone; Triquetrum bone
+Гороховидно-крючковая связка | lig. pisohamatum | m: Pisohamate ligament
+Гороховидно-пястная связка | lig. pisometacarpeum | m: Pisometacarpal ligament
+Запястно-пястные суставы | articulationes carpometacarpeae | m: Palmar carpometacarpal ligaments; Dorsal carpometacarpal ligaments
+Запястно-пястный сустав большого пальца кисти | articulatio carpometacarpea pollicis | b: Trapezium bone; First metacarpal bone
+Ладонные и тыльные запястно-пястные связки | ligg. carpometacarpea palmaria et dorsalia | m: Palmar carpometacarpal ligaments; Dorsal carpometacarpal ligaments
+Межпястные суставы | articulationes intermetacarpeae | m: Interosseous metacarpal ligaments
+Тыльные пястные связки | ligg. metacarpea dorsalia | m: Dorsal metacarpal ligaments
+Ладонные пястные связки | ligg. metacarpea palmaria | m: Palmar metacarpal ligaments
+Межкостные пястные связки | ligg. metacarpea interossea | m: Interosseous metacarpal ligaments
+Пястно-фаланговые суставы | articulationes metacarpophalangeae | m: Articular capsules of metacarpophalangeal joints
+Коллатеральные связки пястно-фаланговых суставов | ligg. collateralia | m: Collateral metacarpophalangeal ligaments
+Глубокие поперечные пястные связки | ligg. metacarpea transversa profunda | m: Deep transverse metacarpal ligament
+Межфаланговые суставы кисти | articulationes interphalangeae manus | m: Articular capsules of proximal interphalangeal joints; Articular capsules of distal interphalangeal joints
+Ладонные связки | ligg. palmaria | m: Palmar interphalangeal ligaments
+Коллатеральные связки межфаланговых суставов кисти | ligg. collateralia | m: Collateral interphalangeal ligaments of hand
+
+## pelvis | Суставы пояса нижней конечности | 156-158
+Суставы нижней конечности | articulationes membri inferioris | m: Articular capsule of hip joint; Articular capsule of knee joint | b: Hip bone; Femur; Tibia; Fibula
+Связки и соединения пояса нижней конечности | ligg. et articulationes cinguli membri inferioris | m: Anterior sacro-iliac ligament; Sacrotuberous ligament; Sacrospinous ligament; Pubic symphysis; Obturator membrane
+Крестцово-подвздошный сустав | articulatio sacroiliaca | p: Auricular surface of sacrum | b: Sacrum; Hip bone
+Ушковидные поверхности | facies auriculares | p: Auricular surface of ilium | b: Hip bone
+Передние крестцово-подвздошные связки | ligg. sacroiliaca anteriora | m: Anterior sacro-iliac ligament
+Межкостные крестцово-подвздошные связки | ligg. sacroiliaca interossea | m: Interosseous sacro-iliac ligament
+Задние крестцово-подвздошные связки | ligg. sacroiliaca posteriora | m: Posterior sacro-iliac ligament
+Подвздошно-поясничная связка | lig. iliolumbale
+Крестцово-бугорная связка | lig. sacrotuberale | m: Sacrotuberous ligament
+Серповидный отросток | processus falciformis | m: Sacrotuberous ligament | ex
+Крестцово-остистая связка | lig. sacrospinale | m: Sacrospinous ligament
+Большое седалищное отверстие | foramen ischiadicum majus | p: Greater sciatic foramen
+Малое седалищное отверстие | foramen ischiadicum minus | p: Lesser sciatic foramen
+Запирательная мембрана | membrana obturatoria | m: Obturator membrane
+Запирательный канал | canalis obturatorius | p: Obturator groove
+Лобковый симфиз | symphysis pubica
+Симфизиальные поверхности | facies symphysiales | p: Symphysial surface of pubis
+Межлобковый диск | discus interpubicus | m: Interpubic disc
+Верхняя лобковая связка | lig. pubicum superius | m: Superior pubic ligament
+Дугообразная связка лобка | lig. arcuatum pubis | m: Inferior pubic ligament
+
+## hip | Тазобедренный сустав | 158-161
+Суставы свободной нижней конечности | articulationes membri inferioris liberi | m: Articular capsule of hip joint; Articular capsule of knee joint | b: Femur; Tibia; Fibula
+Тазобедренный сустав | articulatio coxae | m: Articular capsule of hip joint | b: Hip bone; Femur
+Полулунная поверхность | facies lunata | p: Lunate surface
+Вертлужная губа | labrum acetabulare | m: Acetabular labrum
+Поперечная связка вертлужной впадины | lig. transversum acetabuli | m: Transverse acetabular ligament
+Связка головки бедренной кости | lig. capitis femoris | m: Ligament of head of femur
+Подвздошно-бедренная связка | lig. iliofemorale | m: Descending part of iliofemoral ligament; Transverse part of iliofemoral ligament
+Лобково-бедренная связка | lig. pubofemorale | m: Pubofemoral ligament
+Седалищно-бедренная связка | lig. ischiofemorale | m: Ischiofemoral ligament
+Круговая зона | zona orbicularis | m: Zona orbicularis
+
+## knee | Коленный сустав | 161-167
+Коленный сустав | articulatio genus | m: Articular capsule of knee joint | b: Femur; Tibia; Patella
+Надколенниковая поверхность | facies patellaris | p: Patellar surface of femur
+Медиальный мениск | meniscus medialis | m: Medial meniscus
+Латеральный мениск | meniscus lateralis | m: Lateral meniscus
+Поперечная связка колена | lig. transversum genus | m: Transverse ligament of knee
+Передняя менискобедренная связка | lig. meniscofemorale anterius | b: Femur; Tibia
+Задняя менискобедренная связка | lig. meniscofemorale posterius | b: Femur; Tibia
+Крестообразные связки колена | ligg. cruciata genus | m: Anterior cruciate ligament; Posterior cruciate ligament
+Передняя крестообразная связка | lig. cruciatum anterius | m: Anterior cruciate ligament
+Задняя крестообразная связка | lig. cruciatum posterius | m: Posterior cruciate ligament
+Переднее межмыщелковое поле | area intercondylaris anterior | p: Anterior intercondylar area
+Малоберцовая коллатеральная связка | lig. collaterale fibulare | m: Fibular collateral ligament
+Большеберцовая коллатеральная связка | lig. collaterale tibiale | m: Superficial part of tibial collateral ligament; Deep part of tibial collateral ligament
+Связка надколенника | lig. patellae | m: Patellar ligament
+Медиальная поддерживающая связка надколенника | retinaculum patellae mediale | m: Medial patellar retinaculum
+Латеральная поддерживающая связка надколенника | retinaculum patellae laterale | m: Lateral patellar retinaculum
+Косая подколенная связка | lig. popliteum obliquum | m: Oblique popliteal ligament
+Дугообразная подколенная связка | lig. popliteum arcuatum | m: Arcuate popliteal ligament
+Синовиальные сумки | bursae synoviales | m: Suprapatellar bursa | ex
+Наднадколенниковая сумка | bursa suprapatellaris | m: Suprapatellar bursa
+Поднадколенниковое жировое тело | corpus adiposum infrapatellare | m: Infrapatellar fat pad
+Поднадколенниковая синовиальная складка | plica synovialis infrapatellaris | m: Infrapatellar fat pad | ex
+Крыловидные складки | plicae alares | m: Infrapatellar fat pad | ex
+
+## leg | Соединения костей голени | 167-168
+Межберцовый сустав | articulatio tibiofibularis | m: Articular capsule of superior tibiofibular joint | b: Tibia; Fibula
+Суставная поверхность головки малоберцовой кости | facies articularis capitis fibulae | p: Articular facet of head of fibula
+Малоберцовая суставная поверхность | facies articularis fibularis | p: Fibular articular facet
+Передняя и задняя связки головки малоберцовой кости | ligg. capitis fibulae anterius et posterius | m: Anterior ligament of fibular head; Posterior ligament of fibular head
+Межкостная перепонка голени | membrana interossea cruris | m: Interosseous membrane of leg
+Межберцовый синдесмоз | syndesmosis tibiofibularis | m: Anterior tibiofibular ligament; Posterior tibiofibular ligament | b: Tibia; Fibula
+Передняя и задняя межберцовые связки | ligg. tibiofibularia anterius et posterius | m: Anterior tibiofibular ligament; Posterior tibiofibular ligament
+
+## ankle | Голеностопный сустав | 168-172
+Голеностопный сустав | articulatio talocruralis | p: Trochlea of talus | b: Tibia; Fibula; Talus
+Нижняя суставная поверхность большеберцовой кости | facies articularis inferior tibiae | p: Inferior articular surface of tibia
+Суставная поверхность медиальной лодыжки | facies articularis malleoli | p: Articular facet of medial malleolus
+Суставная поверхность лодыжки малоберцовой кости | facies articularis malleoli fibulae | p: Articular facet of lateral malleolus
+Латеральная и медиальная лодыжковые поверхности | facies malleolares lateralis et medialis | p: Lateral malleolar facet | b: Talus
+Медиальная (дельтовидная) связка | lig. mediale (deltoideum) | m: Tibionavicular ligament; Tibiocalcaneal ligament; Posterior tibiotalar ligament
+Большеберцово-ладьевидная часть | pars tibionavicularis | m: Tibionavicular ligament
+Передняя большеберцово-таранная часть | pars tibiotalaris anterior | b: Tibia; Talus
+Большеберцово-пяточная часть | pars tibiocalcanea | m: Tibiocalcaneal ligament
+Задняя большеберцово-таранная часть | pars tibiotalaris posterior | m: Posterior tibiotalar ligament
+Передняя таранно-малоберцовая связка | lig. talofibulare anterius | m: Anterior talofibular ligament
+Задняя таранно-малоберцовая связка | lig. talofibulare posterius | m: Posterior talofibular ligament
+Пяточно-малоберцовая связка | lig. calcaneofibulare | m: Calcaneofibular ligament
+
+## foot | Суставы стопы | 172-176
+Подтаранный сустав | articulatio subtalaris | b: Talus; Calcaneus
+Задняя таранная суставная поверхность пяточной кости | facies articularis talaris posterior calcanei | b: Calcaneus
+Латеральная таранно-пяточная связка | lig. talocalcaneum laterale | m: Lateral talocalcaneal ligament
+Медиальная таранно-пяточная связка | lig. talocalcaneum mediale | m: Medial talocalcaneal ligament
+Межкостная таранно-пяточная связка | lig. talocalcaneum interosseum | m: Talocalcaneal interosseous ligament
+Таранно-пяточно-ладьевидный сустав | articulatio talocalcaneonavicularis | p: Navicular articular surface | b: Talus; Calcaneus; Navicular bone
+Таранно-ладьевидная связка | lig. talonaviculare | m: Talonavicular ligament
+Подошвенная пяточно-ладьевидная связка | lig. calcaneonaviculare plantare | m: Plantar calcaneonavicular ligament
+Пяточно-кубовидный сустав | articulatio calcaneocuboidea | p: Articular surface for cuboid | b: Calcaneus; Cuboid bone
+Поперечный сустав предплюсны | articulatio tarsi transversa | b: Talus; Calcaneus; Navicular bone; Cuboid bone
+Раздвоенная связка | lig. bifurcatum | m: Calcaneonavicular ligament; Calcaneocuboid ligament
+Пяточно-ладьевидная связка | lig. calcaneonaviculare | m: Calcaneonavicular ligament
+Пяточно-кубовидная связка | lig. calcaneocuboideum | m: Calcaneocuboid ligament
+Длинная подошвенная связка | lig. plantare longum | m: Long plantar ligament
+Клиноладьевидный сустав | articulatio cuneonavicularis | b: Navicular bone; Medial cuneiform bone; Intermediate cuneiform bone; Lateral cuneiform bone
+Тыльные клиноладьевидные связки | ligg. cuneonavicularia dorsalia | m: Dorsal cuneonavicular ligaments
+Подошвенные клиноладьевидные связки | ligg. cuneonavicularia plantaria | m: Plantar cuneonavicular ligaments
+Тыльная кубовидно-ладьевидная связка | lig. cuboideonaviculare dorsale | m: Dorsal cuboideonavicular ligament
+Тыльная клинокубовидная связка | lig. cuneocuboideum dorsale | m: Dorsal cuneocuboid ligament
+Подошвенная клинокубовидная связка | lig. cuneocuboideum plantare | m: Plantar cuneocuboid ligament
+Тыльные межклиновидные связки | ligg. intercuneiformia dorsalia | m: Dorsal intercuneiform ligaments
+Межкостные межклиновидные связки | ligg. intercuneiformia interossea | m: Intercuneiform interosseous ligaments
+Подошвенные межклиновидные связки | ligg. intercuneiformia plantaria | m: Plantar intercuneiform ligaments
+Тыльные связки предплюсны | ligg. tarsi dorsalia | m: Dorsal cuneonavicular ligaments; Dorsal cuboideonavicular ligament; Dorsal intercuneiform ligaments; Dorsal cuneocuboid ligament; Talonavicular ligament; Dorsal calcaneocuboid ligament
+Подошвенные связки предплюсны | ligg. tarsi plantaria | m: Long plantar ligament; Plantar calcaneocuboid ligament; Plantar calcaneonavicular ligament; Plantar cuneonavicular ligaments; Plantar cuboideonavicular ligament; Plantar cuneocuboid ligament; Plantar intercuneiform ligaments
+Межкостные связки предплюсны | ligg. tarsi interossea | m: Talocalcaneal interosseous ligament; Cuneocuboid interosseous ligament; Intercuneiform interosseous ligaments
+Предплюсне-плюсневые суставы | articulationes tarsometatarseae | m: Dorsal tarsometatarsal ligaments; Plantar tarsometatarsal ligaments
+Тыльные предплюсне-плюсневые связки | ligg. tarsometatarsea dorsalia | m: Dorsal tarsometatarsal ligaments
+Подошвенные предплюсне-плюсневые связки | ligg. tarsometatarsea plantaria | m: Plantar tarsometatarsal ligaments
+Межкостные клиноплюсневые связки | ligg. cuneometatarsea interossea | m: Cuneometatarsal interosseous ligaments
+Межплюсневые суставы | articulationes intermetatarseae | m: Metatarsal interosseous ligaments
+Межкостные плюсневые связки | ligg. metatarsea interossea | m: Metatarsal interosseous ligaments
+Тыльные плюсневые связки | ligg. metatarsea dorsalia | m: Dorsal metatarsal ligaments
+Подошвенные плюсневые связки | ligg. metatarsea plantaria | m: Plantar metatarsal ligaments
+Межкостные промежутки плюсны | spatia interossea metatarsi | m: Metatarsal interosseous ligaments | ex
+Плюсне-фаланговые суставы | articulationes metatarsophalangeae | m: Articular capsules of metatarsophalangeal joints
+Коллатеральные связки плюсне-фаланговых суставов | ligg. collateralia | m: Collateral metatarsophalangeal ligaments
+Подошвенные связки плюсне-фаланговых суставов | ligg. plantaria | m: Plantar metatarsophalangeal ligaments
+Глубокая поперечная плюсневая связка | lig. metatarseum transversum profundum | m: Deep transverse metatarsal ligament
+Межфаланговые суставы стопы | articulationes interphalangeae pedis | m: Articular capsules of proximal interphalangeal joints of foot; Articular capsules of distal interphalangeal joints of foot; Articular capsule of interphalangeal joint of great toe
+Коллатеральные связки межфаланговых суставов стопы | ligg. collateralia | m: Collateral interphalangeal ligaments of foot
+Подошвенные связки межфаланговых суставов стопы | ligg. plantaria | m: Plantar interphalangeal ligaments

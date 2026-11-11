@@ -1,0 +1,9 @@
+# Книги, сканы и сырой OCR — под авторским правом, в репозиторий не попадают
+books/
+work/
+tools/
+node_modules/
+dist/
+*.pdf
+.venv/
+__pycache__/

@@ -1,0 +1,15 @@
+{
+  "volumes": [
+    {
+      "title": "Том 1",
+      "sections": [
+        {"id": "t1-arthrology", "title": "Учение о соединениях костей (артрология)", "volume": "Том 1",
+         "export": "arthrology", "page_offset": 6, "ready": true}
+      ]
+    },
+    {
+      "title": "Том 2",
+      "sections": []
+    }
+  ]
+}

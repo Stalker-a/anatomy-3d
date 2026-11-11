@@ -1,0 +1,5 @@
+{
+  "collections": ["3: Joints", "1: Skeletal system"],
+  "structure_collections": ["3: Joints"],
+  "extra": ["Patellar ligament", "Medial patellar retinaculum", "Lateral patellar retinaculum", "Suprapatellar bursa", "Inguinal ligament"]
+}
